@@ -1,0 +1,19 @@
+Dataset
+   ↓
+X = Features
+y = Deposit
+   ↓
+Train-Test Split
+   ↓
+Logistic Regression Model
+   ↓
+model.fit()
+(Model learns patterns)
+   ↓
+model.predict(X_test)
+   ↓
+Predictions (0 or 1)
+   ↓
+Countplot
+   ↓
+Visualize how many customers are predicted to subscribe
