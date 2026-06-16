@@ -127,9 +127,6 @@ See the Jupyter notebook for detailed visualizations and insights.
 
 **cTANMAY97** - [GitHub Profile](https://github.com/cTANMAY97)
 
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ---
 
